@@ -1,0 +1,7 @@
+.paint-table {margin: 20px auto;}
+.paint-table td {border: #dfdfdf 1px solid; border-collapse: collapse; width: 30px; height: 30px; background-color: #ffffff; cursor: pointer;}
+
+.list {margin: 20px auto;}
+.list th {text-align: center;}
+.list td {border: #dfdfdf 1px solid; border-collapse: collapse; padding: 3px 7px; background-color: #ffffff; cursor: pointer;}
+.list td:last-child { text-align: center; }
